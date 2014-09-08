@@ -1,4 +1,3 @@
-BizSimProject
+NVM
 =============
 
-My personal recreation of BizSim written in Python.
